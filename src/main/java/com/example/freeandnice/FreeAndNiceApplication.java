@@ -1,5 +1,6 @@
 package com.example.freeandnice;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -11,3 +12,6 @@ public class FreeAndNiceApplication {
     }
 
 }
+
+//to start the app you should write in terminal:
+//docker-compose up -d
