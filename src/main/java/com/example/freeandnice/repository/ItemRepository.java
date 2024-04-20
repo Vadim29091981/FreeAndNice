@@ -1,6 +1,7 @@
 package com.example.freeandnice.repository;
 
-import org.eclipse.angus.mail.imap.protocol.Item;
+
+import com.example.freeandnice.entities.Item;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
